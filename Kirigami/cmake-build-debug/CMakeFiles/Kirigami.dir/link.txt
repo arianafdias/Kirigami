@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Kirigami.dir/main.cpp.o CMakeFiles/Kirigami.dir/closing.cpp.o  -o Kirigami 

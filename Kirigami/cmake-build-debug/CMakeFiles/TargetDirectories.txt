@@ -1,0 +1,3 @@
+/home/arianafdias/CLionProjects/Kirigami/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/arianafdias/CLionProjects/Kirigami/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arianafdias/CLionProjects/Kirigami/cmake-build-debug/CMakeFiles/Kirigami.dir
